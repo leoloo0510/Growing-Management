@@ -1,5 +1,5 @@
 成长管理-包含阅读和技能提升
-
+Reading and skills Promotion
 To read list：
 1.把你的英语用起来
 2.自控力

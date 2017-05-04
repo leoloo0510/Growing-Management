@@ -1,12 +1,12 @@
-³É³¤¹ÜÀí-°üº¬ÔÄ¶ÁºÍ¼¼ÄÜÌáÉý
+æˆé•¿ç®¡ç†-åŒ…å«é˜…è¯»å’ŒæŠ€èƒ½æå‡
 Reading and skills Promotion
 
-To read list£º
-1.°ÑÄãµÄÓ¢ÓïÓÃÆðÀ´
-2.×Ô¿ØÁ¦
+To read listï¼š
+1.æŠŠä½ çš„è‹±è¯­ç”¨èµ·æ¥
+2.è‡ªæŽ§åŠ›
 
 Ongoing list:
-1.ÈçºÎÔÄ¶ÁÒ»±¾Êé
+1.å¦‚ä½•é˜…è¯»ä¸€æœ¬ä¹¦
 FInished list:
-1.Ð¡Ç¿ÉýÖ°¼Ç
-2.Âß¼­Ë¼Î¬
+1.å°å¼ºå‡èŒè®°
+2.é€»è¾‘æ€ç»´

@@ -21,6 +21,7 @@ Reading and skills Promotion
     2. - [ ] google 搜索技巧
 >     3. [link](https://www.zhihu.com/question/27258809)
     [跳到自己博客列表](http://write.blog.csdn.net/postlist)
+[link](https://www.zhihu.com/question/27258809)
 2. Ongoing:
     1. - [ ] 双拼 Date:2017-7-23
     2. - [ ] MarkDown Format  Date:2017-7-23
